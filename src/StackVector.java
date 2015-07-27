@@ -1,8 +1,16 @@
+/*Universidad del Valle de Guatemala
+ *Algoritmos y Estructuras de Datos
+ *Sección 30
+ *Guillermo Javier de León Archila, 14022
+ *José Pablo Ortega Grajeda, 14565
+ *Dan Isaí Alvarez Ruano, 14628
+ *Clase: StackVector
+ */
+
 import java.util.Vector;
 
-public class StackVector<E>
- implements Stack<E>
-{
+public class StackVector<E> implements Stack<E> {
+	
 	protected Vector<E> data;
 
 	public StackVector()

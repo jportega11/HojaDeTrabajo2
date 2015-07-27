@@ -1,3 +1,12 @@
+/*Universidad del Valle de Guatemala
+ *Algoritmos y Estructuras de Datos
+ *Sección 30
+ *Guillermo Javier de León Archila, 14022
+ *José Pablo Ortega Grajeda, 14565
+ *Dan Isaí Alvarez Ruano, 14628
+ *Clase: StackArrayList
+ */
+
 import java.util.ArrayList;
 
 public class StackArrayList<E> implements Stack<E> {
